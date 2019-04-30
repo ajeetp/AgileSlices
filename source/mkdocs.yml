@@ -1,25 +1,30 @@
-site_name: Agile Slices
+site_name: 'Agile Slices'
 repo_url: https://github.com/ajeetp/agileslices
-site_description: Agile values, principles, tools, techniques, best practices and wisdom in bite-sized increments.
-site_author: Ajeet Phull
+site_description: 'Agile values, principles, tools, techniques, best practices and wisdom in bite-sized increments.'
+site_author: 'Ajeet Phull'
+copyright: 'Copyright &copy; 2019 Ajeet Phull'
 docs_dir: mddocs
 site_dir: ../docs
 nav:
-    - 'Introduction to Agile': 'index.md'
-    - 'Agile Principles': 'principles.md'
-    - 'Agile Values': 'manifesto.md'
+    - 'Welcome': 'index.md'
+    - '1. Introduction': 'introduction.md'
+    - '2. Definition': 'definition.md'
+    - '3. Agile Principles': 'principles.md'
+    - '4. Agile Values': 'manifesto.md'
 theme:
     name: 'material'
     language: en
     highlightjs: true
     palette:
-      primary: 'Teal'
-      accent: 'Cyan'
+      primary: 'Green'
+      accent: 'Green'
     font:
       text: 'Roboto'
       code: 'Roboto Mono'
     logo:
       icon: 'chrome_reader_mode'
+extra_css: 
+  - css/extra.css
 markdown_extensions:
   - smarty
   - nl2br
@@ -29,6 +34,16 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.magiclink
+  - pymdownx.mark:
+      smart_mark: true
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 extra:
   social:
     - type: 'linkedin'

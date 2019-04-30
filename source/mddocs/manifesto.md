@@ -1,7 +1,7 @@
 # Agile Manifesto
 
 !!! note ""
-    Pre-requisites: [Agile Definition](../), [Agile Principles](../principles)
+    Pre-requisites: [Agile Definition](../definition), [Agile Principles](../principles)
 
 In this section we will dive deeper into each of statement from the [The Agile Manifesto](https://agilemanifesto.org/).
 
@@ -16,8 +16,10 @@ We value
 
 ---
 
-!!! example "Example Scenario: Transition to Agile"
+???+ example "Example Scenario: Transition to Agile"
     *To understand these statements better, let's construct a hypothetical scenario*: Executives at ACME Inc. have asked one of their software development teams to pilot Agile. The team currently consists of a PM, four developers, a tester and an analyst. This team is new to Agile methodology.
+
+    !!! info "The examples depict events in sequence and should be read in order."
 
     <mark>Note: This example is intended to show how the 4 statements in the Agile manifesto relate to an Agile team's activities. It is - not - a roadmap for Agile transition and is simplified for brevity</mark>
 
@@ -25,7 +27,7 @@ We value
 
 Agile approach values individuals and implies providing the necessary support needed for the individuals to perform their best. Efficient and frequent interaction is valued. The supporting processes and tools should enhance transparency and trust.
 
-!!! example ""
+??? example "Example: ACME team"
     > *Day 1*: The team meets to discuss agile transition. They agree on the following
 
     > - Every team member will attend Agile methodology training
@@ -55,11 +57,15 @@ Agile approach values individuals and implies providing the necessary support ne
     We value **interactions**: More face-to-face communication.
     Introduce changes in increments rather than all at once, Just enough preparation so the team is not blocked
 
+??? question "Review"
+    :construction:
+    To Do
+
 ## Working software over comprehensive documentation
 
 Delivering value frequently by doing just enough work and adapting to change is the Agile way. This implies doing work in increments and just enough documentation that is needed for that increment.
 
-!!! example ""
+??? example "Example ACME team"
     > *Next review meeting*: The team reviews completed work which at this time is the backlog.
 
     When a team has to start with building a backlog and everyone is pitching in there may not be code written in that initial cycle. This was not a **coding** cycle for this team. A backlog with next 2 cycles of work - is a deliverable of the iteration for this team. Some teams may start building a dev environment or procurring assets, if the agile team is doing this work then it is valid to include this in the review.
@@ -86,11 +92,15 @@ Delivering value frequently by doing just enough work and adapting to change is 
 
     Whereas in traditional approach there is significant time invested in comprehensive documentation such as requirements document, this means that if there were changes then all that effort was spent needlessly. In Agile methodology the requirements are evaluated for value and the highest value items are broken down in increments, if changes to requirements that have not been broken down are required then there is zero wasted effort. In addition since the changes can be incorporated so easily the value delivered to the customer will be higher and customer satisfaction improves.
 
+??? question "Review"
+    :construction:
+    To Do
+
 ## Customer collaboration over contract negotiation
 
 Customer satisfaction is the highest goal in Agile. It goes beyond contractual obligations and towards customer delight. Being customer obsessed means starting with the customer, collaborating with the customer throughout the project to understand their goals and adapt to deliver the best value.
 
-!!! example ""
+??? example "Example: ACME team"
     > *Retrospective*: The team has identified an improvement area. Team members realize they need to improve customer collaboration, the team is developing an internal tool and has been reaching out to the teams that will use this tool (internal customers). A team member volunteers to be the product owner and work with the other teams closely to understand their needs. The team also decides to extend invitation to key members from other teams for their planning and review meetings.
 
     **Customer collaboration** is possible in many ways, some teams invite external customers to their agile meetings. Other teams have a product owner who works with external customers and acts as the customer representative in the team.
@@ -107,13 +117,21 @@ Customer satisfaction is the highest goal in Agile. It goes beyond contractual o
 
     Working with the customer to satisfy their needs requires a change in attitude for teams transitioning to Agile, close partnership is a good thing and clarity of what are must-haves is important. The team should always be thinking about reducing work, **do just enough work to meet customer needs**.
 
+??? question "Review"
+    :construction:
+    To Do
+
 ## Responding to change over following a plan
 
 Planning is part of Agile, it is done in increments. The plan drives the team to deliver value and when the team learns of a change in requirements they can adopt the plan easily and cheaply. The ability to respond to change is the reason why Agile methodology results in higher customer satisfaction and faster time to market.
 
-!!! example ""
+??? example "Example: ACME team"
     > *Re-planning*: The team learned that there is a high value feature that needs to be delivered by a set date and negotiated with the customer on the must-haves. In this case, the team agrees that this is important to the customer and decides to do the planning again for the cycle.
 
     Responding to a request from the customer and replanning work will help the team to deliver value on time. This builds trust and credibility with the customer. Investing in improving the relationship/partnership with the customer requires listening to the customer and constantly thinking about what would be valuable for the customer.
 
     The team should take care and make an informed decision to change work within a cycle, this should not become the norm. Ofcourse this should be customized to the team, if a team also handles production bugs and must fix them as soon as possible then part of the cycle time can be set aside for bug fixing (if the team knows of the bugs in advance then it should be planned work).
+
+??? question "Review"
+    :construction:
+    To Do
