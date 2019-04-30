@@ -1,0 +1,35 @@
+site_name: Agile Slices
+repo_url: https://github.com/ajeetp/agileslices
+site_description: Agile values, principles, tools, techniques, best practices and wisdom in bite-sized increments.
+site_author: Ajeet Phull
+docs_dir: mddocs
+site_dir: ../docs
+nav:
+    - 'Introduction to Agile': 'index.md'
+    - 'Agile Principles': 'principles.md'
+    - 'Agile Values': 'manifesto.md'
+theme:
+    name: 'material'
+    language: en
+    highlightjs: true
+    palette:
+      primary: 'Teal'
+      accent: 'Cyan'
+    font:
+      text: 'Roboto'
+      code: 'Roboto Mono'
+    logo:
+      icon: 'chrome_reader_mode'
+markdown_extensions:
+  - smarty
+  - nl2br
+  - faextension
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+extra:
+  social:
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/ajeetphull/'
