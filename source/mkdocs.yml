@@ -12,12 +12,12 @@ nav:
     - '3. Agile Principles': 'principles.md'
     - '4. Agile Values': 'manifesto.md'
     - '5. Agile Adoption': 
-      - '5.1. Start with why': '/adopt'
-      - '5.2. Benefits': '/adopt/benefits'
-      - '5.3. Pre-requisite Backlog': '/adopt/backlog'
-      - '5.4. Mindset': '/adopt/mindset'
-      - '5.5. Checklist': '/adopt/checklist'
-    - '6. Agile Competency bands': '/competency'
+      - '5.1. Start with why': './adopt/index.md'
+      - '5.2. Benefits': './adopt/benefits.md'
+      - '5.3. Pre-requisite Backlog': './adopt/backlog.md'
+      - '5.4. Mindset': './adopt/mindset.md'
+      - '5.5. Checklist': './adopt/checklist.md'
+    - '6. Agile Competency bands': './competency/index.md'
 theme:
     name: 'material'
     language: en
