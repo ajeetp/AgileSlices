@@ -11,6 +11,8 @@ nav:
     - '2. Definition': 'definition.md'
     - '3. Agile Principles': 'principles.md'
     - '4. Agile Values': 'manifesto.md'
+    - '5. Agile Adoption': '/adopt'
+    - '6. Agile Competency bands': '/competency'
 theme:
     name: 'material'
     language: en
