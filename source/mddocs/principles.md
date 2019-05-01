@@ -3,6 +3,7 @@
 !!! note ""
     Pre-requisites: [Agile Definition](../definition)
 
+:construction:
 In this section we will learn about the [twelve principles behind Agile manifesto](https://agilemanifesto.org/principles.html)
 
 ??? tip "Why review principles before manifesto?"

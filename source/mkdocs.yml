@@ -11,7 +11,12 @@ nav:
     - '2. Definition': 'definition.md'
     - '3. Agile Principles': 'principles.md'
     - '4. Agile Values': 'manifesto.md'
-    - '5. Agile Adoption': '/adopt'
+    - '5. Agile Adoption': 
+      - '5.1. Start with why': '/adopt'
+      - '5.2. Benefits': '/adopt/benefits'
+      - '5.3. Pre-requisite Backlog': '/adopt/backlog'
+      - '5.4. Mindset': '/adopt/mindset'
+      - '5.5. Checklist': '/adopt/checklist'
     - '6. Agile Competency bands': '/competency'
 theme:
     name: 'material'
@@ -28,6 +33,7 @@ theme:
 extra_css: 
   - css/extra.css
 markdown_extensions:
+  - extra
   - smarty
   - nl2br
   - faextension

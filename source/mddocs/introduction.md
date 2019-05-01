@@ -23,18 +23,20 @@ We will reference Agile frameworks such as Scrum and Kanban, however this book w
 ## 1.3. What value will you get from reading this book
 
 :construction:
-To get greatest value from this book, complete the review sectios in each chapter. Completing a review section will result in a score that corresponds to a color band: Blue, Green, Yellow, Red.
+To get greatest value from this book, complete the review sections in each chapter. Completing a review section will result in a score that corresponds to a color band.
 
-These bands are loosely based on a japanese martial art concept: **shu, ha, ri** [Learn more](https://en.wikipedia.org/wiki/Shuhari)
+These bands are loosely based on a japanese martial art concept: **shu, ha, ri[^1]**
 
-!!! note ""
-    Blue: Excellent grasp of concept. Ability to apply out-of-the-box thinking while remaining true to Agile values.
+!!! note "Expert"
+    Mastery of agile concepts. Ability to apply out-of-the-box thinking while remaining true to Agile values.
 
-!!! question ""
-    Green: Good grasp of concepts. Can expand on techniques.
+!!! tip "Advanced"
+    Excellent grasp of concepts. Able to deliver value at sustainable development pace.
 
-!!! warning ""
-    Yellow: Needs some improvement.
+!!! warning "Basic"
+    Have broad knowlegde of agile principles and how to apply them. Needs some guidance.
 
-!!! danger ""
-    Red: Possible anti-patterns preventing understanding of concept.
+!!! danger "Aware"
+    Understand basic concepts. Low experience. Needs a lot of guidance to be effective.
+
+[^1]: [Learn more about Shu Ha Ri](https://en.wikipedia.org/wiki/Shuhari)
