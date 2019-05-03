@@ -4,7 +4,7 @@ site_description: 'Agile values, principles, tools, techniques, best practices a
 site_author: 'Ajeet Phull'
 copyright: 'Copyright &copy; 2019 Ajeet Phull'
 docs_dir: mddocs
-site_dir: ../../gh-p-agileslices
+site_dir: ../../gh-pages-site/agileslices
 nav:
     - 'Welcome': 'index.md'
     - '1. Introduction': 'introduction.md'
