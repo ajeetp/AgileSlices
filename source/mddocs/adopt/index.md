@@ -6,9 +6,9 @@ This might seem obvious but in my experience some organizations/teams fail to de
 !!! warning "IMPORTANT"
     Answering why will highlight the key realizable benefits and more importantly the benefits that will be out of reach.
 
-:zap: Yes, you read it correctly: Out of all the benefits of agile there may be some ( or many) that are unrealizable depending on the reason(s) for agile adoption.
+Yes, you read it correctly: Out of all the benefits of agile there may be some ( or many) that are unrealizable depending on the reason(s) for agile adoption.
 
-:loudspeaker: Here are a few "fictional" examples that setup the agile transition team for failure
+Here are a few "fictional" examples that setup the agile transition team for failure
 
 |Reason for agile adoption|What it probably means|
 |---|---|
@@ -16,7 +16,7 @@ This might seem obvious but in my experience some organizations/teams fail to de
 |We need to be seen as "agile" to recruit top talent|Let's put lipstick on a pig and hope no one notices|
 |It was a directive from leadership|Let's just do enough to look good on paper|
 
-Hopefully :pray: these are not actual reasons you hear. Drop me an email :email: if you come across similar reasons
+Hopefully these are not actual reasons you hear. Drop me an email if you come across similar reasons
 
 ---
 
@@ -44,9 +44,9 @@ Ok, so if the reason(s) for agile adoption determine the outcome, what are some 
 !!! warning ""
     Value to the organization/team, of tranistioning to agile, is dependent on many factors. For now let's be aware of the "value range".
 
-    > Value ranges from 1x to 10x
+        Value ranges from 1x to 10x
 
-    :rage: **What do you mean the lower end starts at 1x, same as traditional?**
+    **What do you mean the lower end starts at 1x, same as traditional?**
     Yes, when agile adoption is for the wrong reasons and there is lack of commitment then there maybe no value gained.The power of agile methodology is unleashed when there is strong commitment and participants have a growth mindset. Most teams adopting agile will fall somewhere in between 1x and 10x.
 
 !!! danger "Commitment"
@@ -54,11 +54,11 @@ Ok, so if the reason(s) for agile adoption determine the outcome, what are some 
 
     Story: [Kanban at Scale – A Siemens Success Story](https://www.infoq.com/articles/kanban-siemens-health-services)
 
-If you are still reading this then congratulations :trophy:, you have an open mind and will probably get a lot of value from this book.
+If you are still reading this then congratulations, you will probably get a lot of value from this book.
 
 Let's get back to discussing "good" reasons for agile adoption. These **reasons lead to the best outcome by driving the right behaviors** in the teams/stakeholders.
 
-:loudspeaker: Here are a few examples
+Here are a few examples
 
 |Reason for agile adoption|What it probably means|
 |---|---|
