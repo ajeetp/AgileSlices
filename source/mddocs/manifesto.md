@@ -57,10 +57,6 @@ Agile approach values individuals and implies providing the necessary support ne
     We value **interactions**: More face-to-face communication.
     Introduce changes in increments rather than all at once, Just enough preparation so the team is not blocked
 
-??? question "Review"
-    :construction:
-    To Do
-
 ## Working software over comprehensive documentation
 
 Delivering value frequently by doing just enough work and adapting to change is the Agile way. This implies doing work in increments and just enough documentation that is needed for that increment.
@@ -92,10 +88,6 @@ Delivering value frequently by doing just enough work and adapting to change is 
 
     Whereas in traditional approach there is significant time invested in comprehensive documentation such as requirements document, this means that if there were changes then all that effort was spent needlessly. In Agile methodology the requirements are evaluated for value and the highest value items are broken down in increments, if changes to requirements that have not been broken down are required then there is zero wasted effort. In addition since the changes can be incorporated so easily the value delivered to the customer will be higher and customer satisfaction improves.
 
-??? question "Review"
-    :construction:
-    To Do
-
 ## Customer collaboration over contract negotiation
 
 Customer satisfaction is the highest goal in Agile. It goes beyond contractual obligations and towards customer delight. Being customer obsessed means starting with the customer, collaborating with the customer throughout the project to understand their goals and adapt to deliver the best value.
@@ -117,10 +109,6 @@ Customer satisfaction is the highest goal in Agile. It goes beyond contractual o
 
     Working with the customer to satisfy their needs requires a change in attitude for teams transitioning to Agile, close partnership is a good thing and clarity of what are must-haves is important. The team should always be thinking about reducing work, **do just enough work to meet customer needs**.
 
-??? question "Review"
-    :construction:
-    To Do
-
 ## Responding to change over following a plan
 
 Planning is part of Agile, it is done in increments. The plan drives the team to deliver value and when the team learns of a change in requirements they can adopt the plan easily and cheaply. The ability to respond to change is the reason why Agile methodology results in higher customer satisfaction and faster time to market.
@@ -131,7 +119,3 @@ Planning is part of Agile, it is done in increments. The plan drives the team to
     Responding to a request from the customer and replanning work will help the team to deliver value on time. This builds trust and credibility with the customer. Investing in improving the relationship/partnership with the customer requires listening to the customer and constantly thinking about what would be valuable for the customer.
 
     The team should take care and make an informed decision to change work within a cycle, this should not become the norm. Ofcourse this should be customized to the team, if a team also handles production bugs and must fix them as soon as possible then part of the cycle time can be set aside for bug fixing (if the team knows of the bugs in advance then it should be planned work).
-
-??? question "Review"
-    :construction:
-    To Do

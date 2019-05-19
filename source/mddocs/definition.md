@@ -39,7 +39,3 @@ Agile teams must know the value, size and sequence of work items. The backlog of
 ### Frequently and easily
 
 Agile teams have short development cycles which means frequent delivery of working software and many opportunities to collect feedback. The backlog supports the short cycle by having work broken down into small enough pieces that can be completed in a cycle and provide value to the customer. The team continuously improves the development pipeline, supporting processes and tools to make it easy to deliver at a sustainable pace.
-
-??? question "Review"
-    :construction:
-    To Do

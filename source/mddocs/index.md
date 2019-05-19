@@ -16,8 +16,8 @@ tags:
   
     ![oranges](assets/oranges.png)
 
-    ??? info
-        My intention is to keep this site free to use. I am working on companion content including an app that is currently in development and will be linked from this site when available.
 
 !!! warning "Version 0.1"
     This book is currently in "development". To identify sections that are in draft status, the "construction" :construction: indicator will be used.
+
+    I am working on companion book that has check your understanding sections and will link from this site when available.
