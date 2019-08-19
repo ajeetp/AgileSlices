@@ -1,7 +1,7 @@
 # Agile adoption pre-requisite backlog
 
 :construction:
-Purpose: These are the pre-requisite work items to be completed before starting agile adoption/transformation
+Purpose: These are activities to be completed before starting agile adoption/transformation
 
 ## 1. Clearly define goals for agile adoption/transformation
 

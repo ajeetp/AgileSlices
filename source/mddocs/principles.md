@@ -1,7 +1,7 @@
 # Agile Principles
 
 !!! note ""
-    Pre-requisites: [Agile Definition](../definition)
+    Pre-requisite(s): [Agile Definition](../definition)
 
 :construction:
 In this section we will learn about the [twelve principles behind Agile manifesto](https://agilemanifesto.org/principles.html)
@@ -19,7 +19,7 @@ In this section we will learn about the [twelve principles behind Agile manifest
 
 #### Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
 
- Agile methodolgy recommends breaking down large requirements into thin vertical slices and get it done. By delivering early the team can get feedback from the customer and make changes to better align with the needs of the customer. Sometimes the customer has just a general idea of what they need, by having access to the product increment it helps the customer refine what their goals are or make changes if the market conditions have changed.
+ Agile methodolgy recommends breaking down large requirements into thin vertical slices and get it done. By delivering early the team can get feedback from the customer and make changes to better align with the needs of the customer. Sometimes the customer has just a general idea of what they need, by having access to the product increment it helps the customers understand their needs better or make changes if the market conditions have changed.
 
 #### Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage
 
@@ -27,17 +27,17 @@ Agile teams take advantage of every opportunity to better align with customer ne
 
 #### Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale
 
-Delivering software frequently and early is a skill Agile teams have to build. Shorter cycle means more opportunities to deliver value and align with the customer goals. A shorter timeframe requires the team to become comfortable with breaking up work into slices that can be delivered within a cycle and have a build/release pipeline that supports faster delivery. The team should adjust the timeframe based on ability rather than because it looks better on paper.
+Delivering software frequently and early is a skill Agile teams have to build. Shorter cycles provide more opportunities to deliver value and align with the customer goals. A shorter timeframe requires the team to become comfortable with breaking up work into slices that can be delivered within a cycle and have a build/release pipeline that supports faster delivery. The team should adjust the timeframe based on ability rather than because it looks better on paper.
 
 #### Business people and developers must work together daily throughout the project
 
-For organizations tranistioning to Agile, making business people available to the team *daily* is very challenging. There are organizations who do this right, however may organizations ignore this and teams are left with struggling to get clarity on requirements or receiving requirements at the right time. Sometimes it is seen as a waste of resources to allocate a business person or product owner for each team.
+For organizations tranistioning to Agile, making business people available to the team *daily* is very challenging. There are organizations who do this right, however may organizations ignore this and teams are left struggling to get clarity on requirements or getting requirements on time. Sometimes it is seen as a waste of resources to allocate a dedicated business person or product owner for each team. Each team must have access to the customer or customer representative when the team needs them in order to be effective.
 
 #### Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done
 
 When you have a group of individuals that take ownership of work they do and have an Agile mindset, they will generate tremendous value. A team centric approach will keep the best team togther and provide them the support needed.
 
-I have seen organizations move individuals in/out of teams casually. Every time a high performing team is dispersed, the company loses value. In my experience, I have come across many instances of teams broken up just as they had stabilized and were working well together to deliver outstanding value. This is where the right leadership can have a big impact.
+I have seen organizations move individuals in/out of teams casually. Every time a high performing team is dispersed, the company loses value. I have come across many instances of teams broken up just as they had stabilized and were working well together to deliver outstanding value. This is where leadership can have a big impact on outcomes by adopting a team centric approach.
 
 #### The most efficient and effective method of conveying information to and within a development team is face-to-face conversation
 
@@ -47,7 +47,7 @@ When working on complex and challenging problems there is no better way to move 
 
 In traditional approach the progress is measured in phases, for example: requirements phase, design phase, development phase, integration testing phase and deployment phase. The customer sees no value until all phases are complete. 
 
-Agile teams deliver early and frequently. The progress is measured in terms of work that is **done**. The customer received working software from early in the project and in increments that add more value. 
+Agile teams deliver early and frequently. The progress is measured in terms of work that is **done**. The customer receives working software from early in the project and in increments that add more value. 
 
 #### Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely
 
@@ -66,11 +66,11 @@ Agile organizations value individuals and work to build a healthy work environme
 
 Most engineers i talk to agree 100% with this principle, however they also point out that they are often asked to take shortcuts and discouraged from pursuing technical excellence. Engineers *want* to invest time in creating a good design and doing the best possible work.
 
-From several years of talking with engineers, PMs and leadership i have come to a conclusion that "technical excellence" has different meaning for each group. Moreover the ROI calculation is done differently by each group.
+From several years of talking with engineers, PMs and leadership i have come to a conclusion that "technical excellence" has different meaning for each group. Moreover the ROI calculation is done differently by each group. A clear definition of what technical excellence means for the team / project should be in place and at regular intervals key participants should have conversations that may lead to concrete backlog items.
 
 #### Simplicity--the art of maximizing the amount of work not done--is essential
 
-This is my favorite principle. It has helped me get unstuck in many situations.
+This is my favorite principle. It has helped me get unstuck in many situations. This principle can be applied in a wide variety of situations and results in better outcomes when **aligned with Agile values**.
 
 #### The best architectures, requirements, and designs emerge from self-organizing teams
 

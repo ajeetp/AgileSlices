@@ -10,10 +10,10 @@ Agile competency bands are loosely based on a japanese martial art concept: **sh
     Excellent grasp of concepts. Able to deliver value at sustainable development pace.
 
 !!! warning "Basic"
-    Have broad knowlegde of agile principles and how to apply them. Needs some guidance.
+    Have basic knowlegde of agile principles and how to apply them. Further exploration recommended.
 
 !!! danger "Aware"
-    Understand basic concepts. Low experience. Needs a lot of guidance to be effective.
+    Recommend starting with fundamental concepts of Agile.
 
 
 

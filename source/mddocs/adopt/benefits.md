@@ -1,7 +1,7 @@
 # Benefits
 
 :construction:
-There are a lot of resources available online as well as books which list the benefits of agile methodology. For your convenience i have **listed the major benefits below** and added links below to online sources where you can find out more. in addition, at teh bottom of the page you will find the disadvantages of agile methodology ( Hint: It has to do with using agile methodology in projects where it is not suitable, lack of understanding of agile concepts, lack of commitment or ineffective rollout )
+There are a lot of resources available online as well as books which list the benefits of agile methodology. For your convenience i have **listed the major benefits below** and added links below to online sources where you can find out more. In addition, at the bottom of the page you will find the disadvantages of agile methodology ( Hint: It has to do with using agile methodology in projects where it is not suitable, lack of understanding of agile concepts, lack of commitment or ineffective rollout )
 
 - Higher customer satisfaction
 - Faster time to market
@@ -15,3 +15,13 @@ There are a lot of resources available online as well as books which list the be
 - Relevant metrics
 - Continous improvement
 - sustainable development pace
+
+# Disadvantages
+
+:construction:
+To do
+
+# Additional Resources
+
+:construction:
+To do

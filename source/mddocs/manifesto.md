@@ -3,25 +3,23 @@
 !!! note ""
     Pre-requisites: [Agile Definition](../definition), [Agile Principles](../principles)
 
-In this section we will dive deeper into each of statement from the [The Agile Manifesto](https://agilemanifesto.org/).
+In this section we will dive deeper into each statement from the [The Agile Manifesto](https://agilemanifesto.org/).
 
-We value
+Agile Manifesto: We value
 
 - **Individuals and interactions** over processes and tools
 - **Working software** over comprehensive documentation
 - **Customer collaboration** over contract negotiation
 - **Responding to change** over following a plan
 
-!!! caution "One of the anti-patterns in Agile adoption is to focus on the left hand side of the 4 statements, which leads to imbalanced implementation and reduced benefits. The items on the right are part of Agile and must be factored in the adoption phase to realize maximum benefits."
+!!! caution "One of the anti-patterns in Agile adoption is to focus heavily on the left hand side of the 4 statements, which leads to imbalanced implementation and reduced benefits. The items on the right are part of Agile approach and must be factored in the adoption phase to realize maximum benefits."
 
 ---
 
 ???+ example "Example Scenario: Transition to Agile"
     *To understand these statements better, let's construct a hypothetical scenario*: Executives at ACME Inc. have asked one of their software development teams to pilot Agile. The team currently consists of a PM, four developers, a tester and an analyst. This team is new to Agile methodology.
 
-    !!! info "The examples depict events in sequence and should be read in order."
-
-    <mark>Note: This example is intended to show how the 4 statements in the Agile manifesto relate to an Agile team's activities. It is - not - a roadmap for Agile transition and is simplified for brevity</mark>
+    !!! info "Note: This example is intended to show how the 4 statements in the Agile manifesto relate to an Agile team's activities. It is - not - a roadmap for Agile transition and is simplified for brevity. The examples depict events in sequence and should be read in order."
 
 ## Individuals and interactions over processes and tools
 
@@ -32,7 +30,7 @@ Agile approach values individuals and implies providing the necessary support ne
 
     > - Every team member will attend Agile methodology training
     > - Any decision that impacts the team will be taken together by the team
-    > - Experimentation is encouraged, take a fail-fast approach.
+    > - Experimentation is encouraged.
 
     We value **individuals**: Awareness of team member needs, Building trust, Creating a safe environment for learning.
 

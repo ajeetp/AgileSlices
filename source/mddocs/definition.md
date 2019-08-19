@@ -26,7 +26,7 @@ Over the years Agile has been defined in many ways, here are a few definitions i
 My preferred definition is
 
 !!! important "Definition"
-    ### Agile methodology results in greatest value delivered frequently and easily.
+    ### Agile methodology results in greatest value delivered to the customer frequently and easily.
 
 ### Agile methodology
 

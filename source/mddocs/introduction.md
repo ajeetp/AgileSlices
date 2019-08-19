@@ -9,7 +9,7 @@ tags:
   - Introduction
 ---
 
-Agile has gained a lot of popularity in the last few years and is in use by a large number of software companies to develop products. Agile methodology is applicable in a wide variety of software projects however there are some scenarios where an alternative approach may be better suited. This book will cover how to determine if agile is right for your software development effort and dive deeper into foundational agile concepts.
+Agile has gained a lot of popularity and is in use by a large number of software companies to develop products. Agile methodology is applicable in a wide variety of software projects however there are some scenarios where an alternative approach may be better suited. This book will cover how to determine if agile is right for your software development effort and dive deeper into foundational agile concepts.
 
 ## 1.1. What you will learn
 
@@ -23,7 +23,7 @@ We will reference Agile frameworks such as Scrum and Kanban, however this book w
 ## 1.3. What value will you get from reading this book
 
 :construction:
-To get greatest value from this book, complete the review sections in each chapter. Completing a review section will result in a score that corresponds to a color band.
+To get greatest value from this book, complete the review sections in each chapter. After completing a review section determine the band based on score.
 
 These bands are loosely based on a japanese martial art concept: **shu, ha, ri[^1]**
 
@@ -34,9 +34,9 @@ These bands are loosely based on a japanese martial art concept: **shu, ha, ri[^
     Excellent grasp of concepts. Able to deliver value at sustainable development pace.
 
 !!! warning "Basic"
-    Have broad knowlegde of agile principles and how to apply them. Needs some guidance.
+    Understands concepts and how to apply them. May benefit from re-reading this chapter.
 
 !!! danger "Aware"
-    Understand basic concepts. Low experience. Needs a lot of guidance to be effective.
+    Recommend reading this chapter again.
 
 [^1]: [Learn more about Shu Ha Ri](https://en.wikipedia.org/wiki/Shuhari)

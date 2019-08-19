@@ -12,7 +12,7 @@ tags:
 # Welcome to **Agile Slices** website
 
 !!! abstract ""
-    This book will cover agile concepts, best practices, tools, techniques and transitioning to agile software development. The topics will be presented in thin slices, each focusing on a single aspect. In each instance questions and/or checklist will be provided to check understanding.
+    We will cover agile concepts, best practices, tools, techniques and transitioning to agile software development. The topics will be presented in thin slices, each focusing on a single aspect. 
   
     ![oranges](assets/oranges.png)
 
